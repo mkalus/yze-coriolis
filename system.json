@@ -62,6 +62,6 @@
     "primaryTokenAttribute": "health",
     "secondaryTokenAttribute": "power",
     "url": "",
-    "manifest": "https://github.com/mkalus/yze-coriolis/releases/latest/download/system.json",
-    "download": "https://github.com/mkalus/yze-coriolis/releases/download/v2.6.13/coriolis.zip"
+    "manifest": "https://raw.githubusercontent.com/mkalus/yze-coriolis/master/system.json",
+    "download": "https://github.com/mkalus/yze-coriolis/archive/refs/tags/v2.6.13.zip"
 }
